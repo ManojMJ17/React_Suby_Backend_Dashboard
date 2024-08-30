@@ -15,7 +15,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-color: blueviolet;
+	background-color: #007090;
 	color: white;
 	padding: 0 20px;
 	font-size: large;
@@ -30,7 +30,7 @@ body {
 	max-width: 15%;
 	width: 100%;
 	height: 89vh;
-	background-color: rgb(231, 212, 249);
+	background-color: #eaebed;
 }
 
 .sideBarSection ul li {
